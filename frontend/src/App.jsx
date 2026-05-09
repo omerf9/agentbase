@@ -326,6 +326,9 @@ function Dashboard({ leads, stats, onRefresh, businesses }) {
 const BUSINESSES = [
   { id: "dealership", name: "AutoPrime Motors", icon: "🚗", color: "#FF6B35", color2: "#FF8C42" },
   { id: "realestate", name: "Prestige Properties", icon: "🏡", color: "#6C63FF", color2: "#8B5CF6" },
+  { id: "medical", name: "CarePoint Clinic", icon: "🏥", color: "#00BCD4", color2: "#0097A7" },
+  { id: "barbershop", name: "Sharp Cuts", icon: "✂️", color: "#FF4081", color2: "#F50057" },
+  { id: "lawfirm", name: "Apex Legal", icon: "⚖️", color: "#FFB300", color2: "#FF8F00" },
 ];
 
 // ── Main App ──
