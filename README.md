@@ -4,6 +4,8 @@
 
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen) ![React](https://img.shields.io/badge/React-18-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Python-green) ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-orange)
 
+🔗 Live Demo: https://agentbase-cyan.vercel.app/
+
 ## What It Does
 
 AgentBase is a configurable AI agent platform. Each agent handles inbound inquiries 24/7, qualifies leads, books appointments, and scores prospects — all autonomously.
