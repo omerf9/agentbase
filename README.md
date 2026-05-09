@@ -11,7 +11,9 @@ AgentBase is a configurable AI agent platform. Each agent handles inbound inquir
 **Live demos:**
 - 🚗 AutoPrime Motors (car dealership)
 - 🏡 Prestige Properties (real estate)
-
+- 🏥 CarePoint Clinic (medical clinic)
+- ✂️ Sharp Cuts (barbershop)
+- ⚖️ Apex Legal Associates (law firm)
 ## Features
 - Multi-turn AI conversations with context memory
 - Automatic lead qualification (budget, timeline, requirements)
